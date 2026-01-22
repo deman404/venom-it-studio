@@ -1,0 +1,8 @@
+{
+  "name": "Venom IT Studio",
+  "description": "A high-tech studio website inspired by bio-organic toxins, venom, and futuristic tech aesthetics. Featuring neon accents, fluid animations, and a dark, aggressive UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
